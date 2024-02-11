@@ -2,7 +2,6 @@ In this project, I've built three distinct models using Teachable Machines: an i
 
 ## Project Description
 
-For this assignment, I was tasked with creating three different models using Teachable Machines:
 
 - **Image Model**: Recognizes and classifies different images based on the training data it was provided.
 - **Pose Model**: Identifies various human poses, demonstrating the application of machine learning in motion and gesture recognition.
@@ -17,7 +16,7 @@ Check out the [Demo on YouTube](https://www.youtube.com/watch?v=iwN677cC6EQ) to 
 
 - [My Image Model](https://teachablemachine.withgoogle.com/models/FLpr4OZkE/)
 - [My Pose Model](https://teachablemachine.withgoogle.com/models/cRXH0eRfH/)
-- [MyAudio Model](https://teachablemachine.withgoogle.com/models/eLfTsvyAw/)
+- [My Audio Model](https://teachablemachine.withgoogle.com/models/eLfTsvyAw/)
 
 ## Getting Started
 
